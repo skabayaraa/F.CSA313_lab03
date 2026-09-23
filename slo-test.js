@@ -1,24 +1,58 @@
 import http from 'k6/http';
 import { check, sleep } from 'k6';
+import { Rate } from 'k6/metrics';
+
+const availability = new Rate('availability');
 
 export const options = {
-  vus: 20, 
-  duration: '2m', // Chaos тестэд зориулж 2 минут байх ёстой
+  vus: 20,
+  duration: '2m',
+
   thresholds: {
-    'http_req_duration{name:cart}': ['p(95)<200'],   // Performance SLO
-    'http_req_failed{name:pay}':    ['rate<0.08'],   // Reliability SLO
-    'checks':                       ['rate>0.90'],   // Availability SLO
+    'http_req_duration{name:cart}': ['p(95)<200'],
+    'http_req_duration{name:report}': ['p(95)<450'],
+    'http_req_failed{name:pay}': ['rate<0.08'],
+    'availability': ['rate>0.90'],
   },
 };
 
 export default function () {
   const base = 'http://localhost:3000';
-  const c = http.post(`${base}/cart/add`, null, { tags: { name: 'cart' } });
-  const r = http.get(`${base}/report`,        { tags: { name: 'report' } });
-  const p = http.post(`${base}/pay`, null,      { tags: { name: 'pay' } });
-  
-  check(c, { 'cart 200': (x) => x.status === 200 });
-  check(r, { 'report 200': (x) => x.status === 200 });
-  check(p, { 'pay 200': (x) => x.status === 200 }); // Зааврын дагуу зөвхөн 200-аар шалгана
+
+  const cart = http.post(
+    `${base}/cart/add`,
+    null,
+    { tags: { name: 'cart' } }
+  );
+
+  availability.add(cart.status === 200);
+
+  check(cart, {
+    'cart 200': (r) => r.status === 200,
+  });
+
+  const report = http.get(
+    `${base}/report`,
+    { tags: { name: 'report' } }
+  );
+
+  availability.add(report.status === 200);
+
+  check(report, {
+    'report 200': (r) => r.status === 200,
+  });
+
+  const pay = http.post(
+    `${base}/pay`,
+    null,
+    { tags: { name: 'pay' } }
+  );
+
+  availability.add(pay.status === 200);
+
+  check(pay, {
+    'pay 200': (r) => r.status === 200,
+  });
+
   sleep(1);
 }
