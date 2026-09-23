@@ -1,7 +1,7 @@
 {
   "name": "lab03",
   "version": "1.0.0",
-  "description": "",
+  "description": "* **Оюутны нэр:** Эрдэнэбаярын Энхсаруул * **Оюутны код:** B232270145 * **k6 version:** k6 v2.2.0 (commit/00a9a1b7f5, go1.26.5, linux/amd64)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabayaraa/F.CSA313_lab03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skabayaraa/F.CSA313_lab03/issues"
+  },
+  "homepage": "https://github.com/skabayaraa/F.CSA313_lab03#readme"
 }

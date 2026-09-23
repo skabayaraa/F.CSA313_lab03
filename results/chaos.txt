@@ -17,419 +17,979 @@
 running (0m01.0s), 20/20 VUs, 0 complete and 0 interrupted iterations
 default   [   1% ] 20 VUs  0m01.0s/2m0s
 
-running (0m02.0s), 20/20 VUs, 0 complete and 0 interrupted iterations
+running (0m02.0s), 20/20 VUs, 20 complete and 0 interrupted iterations
 default   [   2% ] 20 VUs  0m02.0s/2m0s
 
-running (0m03.0s), 20/20 VUs, 0 complete and 0 interrupted iterations
+running (0m03.0s), 20/20 VUs, 40 complete and 0 interrupted iterations
 default   [   2% ] 20 VUs  0m03.0s/2m0s
 
-running (0m04.0s), 20/20 VUs, 20 complete and 0 interrupted iterations
+running (0m04.0s), 20/20 VUs, 52 complete and 0 interrupted iterations
 default   [   3% ] 20 VUs  0m04.0s/2m0s
 
-running (0m06.3s), 20/20 VUs, 20 complete and 0 interrupted iterations
+running (0m05.0s), 20/20 VUs, 60 complete and 0 interrupted iterations
 default   [   4% ] 20 VUs  0m05.0s/2m0s
 
-running (0m07.3s), 20/20 VUs, 20 complete and 0 interrupted iterations
+running (0m06.0s), 20/20 VUs, 80 complete and 0 interrupted iterations
 default   [   5% ] 20 VUs  0m06.0s/2m0s
 
-running (0m08.3s), 20/20 VUs, 40 complete and 0 interrupted iterations
+running (0m07.0s), 20/20 VUs, 100 complete and 0 interrupted iterations
 default   [   6% ] 20 VUs  0m07.0s/2m0s
 
-running (0m09.3s), 20/20 VUs, 40 complete and 0 interrupted iterations
+running (0m08.0s), 20/20 VUs, 112 complete and 0 interrupted iterations
 default   [   7% ] 20 VUs  0m08.0s/2m0s
 
-running (0m10.3s), 20/20 VUs, 40 complete and 0 interrupted iterations
+running (0m09.0s), 20/20 VUs, 123 complete and 0 interrupted iterations
 default   [   7% ] 20 VUs  0m09.0s/2m0s
 
-running (0m11.3s), 20/20 VUs, 57 complete and 0 interrupted iterations
+running (0m10.0s), 20/20 VUs, 140 complete and 0 interrupted iterations
 default   [   8% ] 20 VUs  0m10.0s/2m0s
 
-running (0m12.3s), 20/20 VUs, 60 complete and 0 interrupted iterations
+running (0m11.0s), 20/20 VUs, 160 complete and 0 interrupted iterations
 default   [   9% ] 20 VUs  0m11.0s/2m0s
 
-running (0m13.3s), 20/20 VUs, 60 complete and 0 interrupted iterations
+running (0m12.0s), 20/20 VUs, 174 complete and 0 interrupted iterations
 default   [  10% ] 20 VUs  0m12.0s/2m0s
 
-running (0m14.3s), 20/20 VUs, 60 complete and 0 interrupted iterations
+running (0m13.0s), 20/20 VUs, 186 complete and 0 interrupted iterations
 default   [  11% ] 20 VUs  0m13.0s/2m0s
 
-running (0m15.3s), 20/20 VUs, 80 complete and 0 interrupted iterations
+running (0m14.0s), 20/20 VUs, 200 complete and 0 interrupted iterations
 default   [  12% ] 20 VUs  0m14.0s/2m0s
 
-running (0m16.3s), 20/20 VUs, 80 complete and 0 interrupted iterations
+running (0m15.0s), 20/20 VUs, 220 complete and 0 interrupted iterations
 default   [  12% ] 20 VUs  0m15.0s/2m0s
 
-running (0m17.3s), 20/20 VUs, 80 complete and 0 interrupted iterations
+running (0m16.0s), 20/20 VUs, 236 complete and 0 interrupted iterations
 default   [  13% ] 20 VUs  0m16.0s/2m0s
 
-running (0m18.3s), 20/20 VUs, 100 complete and 0 interrupted iterations
+running (0m17.0s), 20/20 VUs, 247 complete and 0 interrupted iterations
 default   [  14% ] 20 VUs  0m17.0s/2m0s
 
-running (0m19.3s), 20/20 VUs, 100 complete and 0 interrupted iterations
+running (0m18.0s), 20/20 VUs, 262 complete and 0 interrupted iterations
 default   [  15% ] 20 VUs  0m18.0s/2m0s
 
-running (0m20.3s), 20/20 VUs, 100 complete and 0 interrupted iterations
+running (0m19.0s), 20/20 VUs, 280 complete and 0 interrupted iterations
 default   [  16% ] 20 VUs  0m19.0s/2m0s
 
-running (0m21.3s), 20/20 VUs, 118 complete and 0 interrupted iterations
+running (0m20.0s), 20/20 VUs, 298 complete and 0 interrupted iterations
 default   [  17% ] 20 VUs  0m20.0s/2m0s
 
-running (0m22.3s), 20/20 VUs, 120 complete and 0 interrupted iterations
+running (0m21.0s), 20/20 VUs, 311 complete and 0 interrupted iterations
 default   [  17% ] 20 VUs  0m21.0s/2m0s
 
-running (0m23.3s), 20/20 VUs, 120 complete and 0 interrupted iterations
+running (0m24.4s), 20/20 VUs, 320 complete and 0 interrupted iterations
 default   [  18% ] 20 VUs  0m22.0s/2m0s
 
-running (0m24.3s), 20/20 VUs, 123 complete and 0 interrupted iterations
+running (0m25.4s), 20/20 VUs, 340 complete and 0 interrupted iterations
 default   [  19% ] 20 VUs  0m23.0s/2m0s
 
-running (0m25.3s), 20/20 VUs, 140 complete and 0 interrupted iterations
+running (0m26.4s), 20/20 VUs, 359 complete and 0 interrupted iterations
 default   [  20% ] 20 VUs  0m24.0s/2m0s
 
-running (0m26.3s), 20/20 VUs, 140 complete and 0 interrupted iterations
+running (0m27.4s), 20/20 VUs, 376 complete and 0 interrupted iterations
 default   [  21% ] 20 VUs  0m25.0s/2m0s
 
-running (0m27.3s), 20/20 VUs, 140 complete and 0 interrupted iterations
+running (0m28.4s), 20/20 VUs, 383 complete and 0 interrupted iterations
 default   [  22% ] 20 VUs  0m26.0s/2m0s
 
-running (0m28.3s), 20/20 VUs, 160 complete and 0 interrupted iterations
+running (0m29.4s), 20/20 VUs, 400 complete and 0 interrupted iterations
 default   [  22% ] 20 VUs  0m27.0s/2m0s
 
-running (0m29.3s), 20/20 VUs, 160 complete and 0 interrupted iterations
+running (0m30.4s), 20/20 VUs, 419 complete and 0 interrupted iterations
 default   [  23% ] 20 VUs  0m28.0s/2m0s
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:05+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m30.3s), 20/20 VUs, 160 complete and 0 interrupted iterations
+running (0m31.4s), 20/20 VUs, 436 complete and 0 interrupted iterations
 default   [  24% ] 20 VUs  0m29.0s/2m0s
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:06+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m31.3s), 20/20 VUs, 178 complete and 0 interrupted iterations
+running (0m32.4s), 20/20 VUs, 456 complete and 0 interrupted iterations
 default   [  25% ] 20 VUs  0m30.0s/2m0s
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:07+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m32.3s), 20/20 VUs, 180 complete and 0 interrupted iterations
+running (0m33.4s), 20/20 VUs, 476 complete and 0 interrupted iterations
 default   [  26% ] 20 VUs  0m31.0s/2m0s
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:08+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m33.3s), 20/20 VUs, 180 complete and 0 interrupted iterations
+running (0m34.4s), 20/20 VUs, 496 complete and 0 interrupted iterations
 default   [  27% ] 20 VUs  0m32.0s/2m0s
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:09+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m34.3s), 20/20 VUs, 185 complete and 0 interrupted iterations
+running (0m35.4s), 20/20 VUs, 516 complete and 0 interrupted iterations
 default   [  27% ] 20 VUs  0m33.0s/2m0s
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:10+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m35.3s), 20/20 VUs, 200 complete and 0 interrupted iterations
+running (0m36.4s), 20/20 VUs, 536 complete and 0 interrupted iterations
 default   [  28% ] 20 VUs  0m34.0s/2m0s
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:11+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m36.3s), 20/20 VUs, 200 complete and 0 interrupted iterations
+running (0m37.4s), 20/20 VUs, 556 complete and 0 interrupted iterations
 default   [  29% ] 20 VUs  0m35.0s/2m0s
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:12+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m37.3s), 20/20 VUs, 200 complete and 0 interrupted iterations
+running (0m38.4s), 20/20 VUs, 576 complete and 0 interrupted iterations
 default   [  30% ] 20 VUs  0m36.0s/2m0s
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:13+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m39.6s), 20/20 VUs, 220 complete and 0 interrupted iterations
+running (0m39.4s), 20/20 VUs, 596 complete and 0 interrupted iterations
 default   [  31% ] 20 VUs  0m37.0s/2m0s
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/cart/add\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Get \"http://localhost:3000/report\": dial tcp 127.0.0.1:3000: connect: connection refused"
+time="2026-09-23T10:13:14+08:00" level=warning msg="Request Failed" error="Post \"http://localhost:3000/pay\": dial tcp 127.0.0.1:3000: connect: connection refused"
 
-running (0m40.6s), 20/20 VUs, 220 complete and 0 interrupted iterations
+running (0m40.4s), 20/20 VUs, 615 complete and 0 interrupted iterations
 default   [  32% ] 20 VUs  0m38.0s/2m0s
 
-running (0m41.6s), 20/20 VUs, 220 complete and 0 interrupted iterations
+running (0m41.4s), 20/20 VUs, 628 complete and 0 interrupted iterations
 default   [  32% ] 20 VUs  0m39.0s/2m0s
 
-running (0m42.6s), 20/20 VUs, 238 complete and 0 interrupted iterations
+running (0m42.4s), 20/20 VUs, 645 complete and 0 interrupted iterations
 default   [  33% ] 20 VUs  0m40.0s/2m0s
 
-running (0m43.6s), 20/20 VUs, 240 complete and 0 interrupted iterations
+running (0m43.4s), 20/20 VUs, 659 complete and 0 interrupted iterations
 default   [  34% ] 20 VUs  0m41.0s/2m0s
 
-running (0m44.6s), 20/20 VUs, 240 complete and 0 interrupted iterations
+running (0m44.4s), 20/20 VUs, 676 complete and 0 interrupted iterations
 default   [  35% ] 20 VUs  0m42.0s/2m0s
 
-running (0m45.6s), 20/20 VUs, 250 complete and 0 interrupted iterations
+running (0m45.4s), 20/20 VUs, 688 complete and 0 interrupted iterations
 default   [  36% ] 20 VUs  0m43.0s/2m0s
 
-running (0m46.6s), 20/20 VUs, 260 complete and 0 interrupted iterations
+running (0m46.4s), 20/20 VUs, 708 complete and 0 interrupted iterations
 default   [  37% ] 20 VUs  0m44.0s/2m0s
 
-running (0m47.6s), 20/20 VUs, 260 complete and 0 interrupted iterations
+running (0m47.4s), 20/20 VUs, 720 complete and 0 interrupted iterations
 default   [  37% ] 20 VUs  0m45.0s/2m0s
 
-running (0m48.6s), 20/20 VUs, 260 complete and 0 interrupted iterations
+running (0m48.4s), 20/20 VUs, 736 complete and 0 interrupted iterations
 default   [  38% ] 20 VUs  0m46.0s/2m0s
 
-running (0m49.6s), 20/20 VUs, 280 complete and 0 interrupted iterations
+running (0m49.4s), 20/20 VUs, 748 complete and 0 interrupted iterations
 default   [  39% ] 20 VUs  0m47.0s/2m0s
 
-running (0m50.6s), 20/20 VUs, 280 complete and 0 interrupted iterations
+running (0m50.4s), 20/20 VUs, 767 complete and 0 interrupted iterations
 default   [  40% ] 20 VUs  0m48.0s/2m0s
 
-running (0m51.6s), 20/20 VUs, 280 complete and 0 interrupted iterations
+running (0m51.4s), 20/20 VUs, 781 complete and 0 interrupted iterations
 default   [  41% ] 20 VUs  0m49.0s/2m0s
 
-running (0m52.6s), 20/20 VUs, 298 complete and 0 interrupted iterations
+running (0m52.4s), 20/20 VUs, 797 complete and 0 interrupted iterations
 default   [  42% ] 20 VUs  0m50.0s/2m0s
 
-running (0m53.6s), 20/20 VUs, 300 complete and 0 interrupted iterations
+running (0m53.4s), 20/20 VUs, 812 complete and 0 interrupted iterations
 default   [  42% ] 20 VUs  0m51.0s/2m0s
 
-running (0m54.6s), 20/20 VUs, 300 complete and 0 interrupted iterations
+running (0m54.4s), 20/20 VUs, 828 complete and 0 interrupted iterations
 default   [  43% ] 20 VUs  0m52.0s/2m0s
 
-running (0m55.6s), 20/20 VUs, 311 complete and 0 interrupted iterations
+running (0m55.4s), 20/20 VUs, 843 complete and 0 interrupted iterations
 default   [  44% ] 20 VUs  0m53.0s/2m0s
 
-running (0m56.6s), 20/20 VUs, 320 complete and 0 interrupted iterations
+running (0m56.4s), 20/20 VUs, 859 complete and 0 interrupted iterations
 default   [  45% ] 20 VUs  0m54.0s/2m0s
 
-running (0m57.6s), 20/20 VUs, 320 complete and 0 interrupted iterations
+running (0m59.7s), 20/20 VUs, 873 complete and 0 interrupted iterations
 default   [  46% ] 20 VUs  0m55.0s/2m0s
 
-running (0m58.6s), 20/20 VUs, 322 complete and 0 interrupted iterations
+running (1m00.7s), 20/20 VUs, 888 complete and 0 interrupted iterations
 default   [  47% ] 20 VUs  0m56.0s/2m0s
 
-running (0m59.6s), 20/20 VUs, 340 complete and 0 interrupted iterations
+running (1m01.7s), 20/20 VUs, 902 complete and 0 interrupted iterations
 default   [  47% ] 20 VUs  0m57.0s/2m0s
 
-running (1m00.6s), 20/20 VUs, 340 complete and 0 interrupted iterations
+running (1m02.7s), 20/20 VUs, 919 complete and 0 interrupted iterations
 default   [  48% ] 20 VUs  0m58.0s/2m0s
 
-running (1m01.6s), 20/20 VUs, 340 complete and 0 interrupted iterations
+running (1m03.7s), 20/20 VUs, 934 complete and 0 interrupted iterations
 default   [  49% ] 20 VUs  0m59.0s/2m0s
 
-running (1m02.6s), 20/20 VUs, 358 complete and 0 interrupted iterations
+running (1m04.7s), 20/20 VUs, 949 complete and 0 interrupted iterations
 default   [  50% ] 20 VUs  1m00.0s/2m0s
 
-running (1m03.6s), 20/20 VUs, 360 complete and 0 interrupted iterations
+running (1m05.7s), 20/20 VUs, 964 complete and 0 interrupted iterations
 default   [  51% ] 20 VUs  1m01.0s/2m0s
 
-running (1m04.6s), 20/20 VUs, 360 complete and 0 interrupted iterations
+running (1m06.7s), 20/20 VUs, 980 complete and 0 interrupted iterations
 default   [  52% ] 20 VUs  1m02.0s/2m0s
 
-running (1m05.6s), 20/20 VUs, 372 complete and 0 interrupted iterations
+running (1m07.7s), 20/20 VUs, 995 complete and 0 interrupted iterations
 default   [  52% ] 20 VUs  1m03.0s/2m0s
 
-running (1m06.6s), 20/20 VUs, 380 complete and 0 interrupted iterations
+running (1m08.7s), 20/20 VUs, 1009 complete and 0 interrupted iterations
 default   [  53% ] 20 VUs  1m04.0s/2m0s
 
-running (1m07.7s), 20/20 VUs, 380 complete and 0 interrupted iterations
+running (1m09.7s), 20/20 VUs, 1026 complete and 0 interrupted iterations
 default   [  54% ] 20 VUs  1m05.0s/2m0s
 
-running (1m08.6s), 20/20 VUs, 384 complete and 0 interrupted iterations
+running (1m10.7s), 20/20 VUs, 1042 complete and 0 interrupted iterations
 default   [  55% ] 20 VUs  1m06.0s/2m0s
 
-running (1m09.6s), 20/20 VUs, 400 complete and 0 interrupted iterations
+running (1m11.7s), 20/20 VUs, 1057 complete and 0 interrupted iterations
 default   [  56% ] 20 VUs  1m07.0s/2m0s
 
-running (1m10.6s), 20/20 VUs, 400 complete and 0 interrupted iterations
+running (1m12.7s), 20/20 VUs, 1072 complete and 0 interrupted iterations
 default   [  57% ] 20 VUs  1m08.0s/2m0s
 
-running (1m11.6s), 20/20 VUs, 400 complete and 0 interrupted iterations
+running (1m13.7s), 20/20 VUs, 1087 complete and 0 interrupted iterations
 default   [  57% ] 20 VUs  1m09.0s/2m0s
 
-running (1m14.0s), 20/20 VUs, 419 complete and 0 interrupted iterations
+running (1m14.7s), 20/20 VUs, 1103 complete and 0 interrupted iterations
 default   [  58% ] 20 VUs  1m10.0s/2m0s
 
-running (1m15.0s), 20/20 VUs, 420 complete and 0 interrupted iterations
+running (1m15.7s), 20/20 VUs, 1118 complete and 0 interrupted iterations
 default   [  59% ] 20 VUs  1m11.0s/2m0s
 
-running (1m16.0s), 20/20 VUs, 420 complete and 0 interrupted iterations
+running (1m16.7s), 20/20 VUs, 1133 complete and 0 interrupted iterations
 default   [  60% ] 20 VUs  1m12.0s/2m0s
 
-running (1m17.0s), 20/20 VUs, 434 complete and 0 interrupted iterations
+running (1m17.7s), 20/20 VUs, 1150 complete and 0 interrupted iterations
 default   [  61% ] 20 VUs  1m13.0s/2m0s
 
-running (1m18.0s), 20/20 VUs, 440 complete and 0 interrupted iterations
+running (1m18.7s), 20/20 VUs, 1164 complete and 0 interrupted iterations
 default   [  62% ] 20 VUs  1m14.0s/2m0s
 
-running (1m19.0s), 20/20 VUs, 440 complete and 0 interrupted iterations
+running (1m19.7s), 20/20 VUs, 1181 complete and 0 interrupted iterations
 default   [  62% ] 20 VUs  1m15.0s/2m0s
 
-running (1m20.0s), 20/20 VUs, 445 complete and 0 interrupted iterations
+running (1m20.7s), 20/20 VUs, 1193 complete and 0 interrupted iterations
 default   [  63% ] 20 VUs  1m16.0s/2m0s
 
-running (1m21.0s), 20/20 VUs, 460 complete and 0 interrupted iterations
+running (1m21.7s), 20/20 VUs, 1210 complete and 0 interrupted iterations
 default   [  64% ] 20 VUs  1m17.0s/2m0s
 
-running (1m22.0s), 20/20 VUs, 460 complete and 0 interrupted iterations
+running (1m22.7s), 20/20 VUs, 1225 complete and 0 interrupted iterations
 default   [  65% ] 20 VUs  1m18.0s/2m0s
 
-running (1m23.0s), 20/20 VUs, 461 complete and 0 interrupted iterations
+running (1m23.7s), 20/20 VUs, 1241 complete and 0 interrupted iterations
 default   [  66% ] 20 VUs  1m19.0s/2m0s
 
-running (1m24.0s), 20/20 VUs, 479 complete and 0 interrupted iterations
+running (1m24.7s), 20/20 VUs, 1256 complete and 0 interrupted iterations
 default   [  67% ] 20 VUs  1m20.0s/2m0s
 
-running (1m25.0s), 20/20 VUs, 480 complete and 0 interrupted iterations
+running (1m25.7s), 20/20 VUs, 1269 complete and 0 interrupted iterations
 default   [  67% ] 20 VUs  1m21.0s/2m0s
 
-running (1m26.0s), 20/20 VUs, 480 complete and 0 interrupted iterations
+running (1m26.7s), 20/20 VUs, 1286 complete and 0 interrupted iterations
 default   [  68% ] 20 VUs  1m22.0s/2m0s
 
-running (1m27.0s), 20/20 VUs, 495 complete and 0 interrupted iterations
+running (1m27.7s), 20/20 VUs, 1303 complete and 0 interrupted iterations
 default   [  69% ] 20 VUs  1m23.0s/2m0s
 
-running (1m28.0s), 20/20 VUs, 500 complete and 0 interrupted iterations
+running (1m28.7s), 20/20 VUs, 1319 complete and 0 interrupted iterations
 default   [  70% ] 20 VUs  1m24.0s/2m0s
 
-running (1m29.0s), 20/20 VUs, 500 complete and 0 interrupted iterations
+running (1m29.7s), 20/20 VUs, 1332 complete and 0 interrupted iterations
 default   [  71% ] 20 VUs  1m25.0s/2m0s
 
-running (1m30.0s), 20/20 VUs, 507 complete and 0 interrupted iterations
+running (1m30.7s), 20/20 VUs, 1347 complete and 0 interrupted iterations
 default   [  72% ] 20 VUs  1m26.0s/2m0s
 
-running (1m31.0s), 20/20 VUs, 520 complete and 0 interrupted iterations
+running (1m34.1s), 20/20 VUs, 1364 complete and 0 interrupted iterations
 default   [  72% ] 20 VUs  1m27.0s/2m0s
 
-running (1m32.0s), 20/20 VUs, 520 complete and 0 interrupted iterations
+running (1m35.1s), 20/20 VUs, 1379 complete and 0 interrupted iterations
 default   [  73% ] 20 VUs  1m28.0s/2m0s
 
-running (1m33.0s), 20/20 VUs, 521 complete and 0 interrupted iterations
+running (1m36.1s), 20/20 VUs, 1393 complete and 0 interrupted iterations
 default   [  74% ] 20 VUs  1m29.0s/2m0s
 
-running (1m34.0s), 20/20 VUs, 539 complete and 0 interrupted iterations
+running (1m37.1s), 20/20 VUs, 1408 complete and 0 interrupted iterations
 default   [  75% ] 20 VUs  1m30.0s/2m0s
 
-running (1m35.0s), 20/20 VUs, 540 complete and 0 interrupted iterations
+running (1m38.1s), 20/20 VUs, 1425 complete and 0 interrupted iterations
 default   [  76% ] 20 VUs  1m31.0s/2m0s
 
-running (1m36.0s), 20/20 VUs, 540 complete and 0 interrupted iterations
+running (1m39.1s), 20/20 VUs, 1441 complete and 0 interrupted iterations
 default   [  77% ] 20 VUs  1m32.0s/2m0s
 
-running (1m37.0s), 20/20 VUs, 555 complete and 0 interrupted iterations
+running (1m40.1s), 20/20 VUs, 1459 complete and 0 interrupted iterations
 default   [  77% ] 20 VUs  1m33.0s/2m0s
 
-running (1m38.0s), 20/20 VUs, 560 complete and 0 interrupted iterations
+running (1m41.1s), 20/20 VUs, 1470 complete and 0 interrupted iterations
 default   [  78% ] 20 VUs  1m34.0s/2m0s
 
-running (1m39.0s), 20/20 VUs, 560 complete and 0 interrupted iterations
+running (1m42.1s), 20/20 VUs, 1485 complete and 0 interrupted iterations
 default   [  79% ] 20 VUs  1m35.0s/2m0s
 
-running (1m40.0s), 20/20 VUs, 569 complete and 0 interrupted iterations
+running (1m43.1s), 20/20 VUs, 1500 complete and 0 interrupted iterations
 default   [  80% ] 20 VUs  1m36.0s/2m0s
 
-running (1m41.0s), 20/20 VUs, 580 complete and 0 interrupted iterations
+running (1m44.1s), 20/20 VUs, 1518 complete and 0 interrupted iterations
 default   [  81% ] 20 VUs  1m37.0s/2m0s
 
-running (1m42.0s), 20/20 VUs, 580 complete and 0 interrupted iterations
+running (1m45.1s), 20/20 VUs, 1533 complete and 0 interrupted iterations
 default   [  82% ] 20 VUs  1m38.0s/2m0s
 
-running (1m43.0s), 20/20 VUs, 582 complete and 0 interrupted iterations
+running (1m46.1s), 20/20 VUs, 1545 complete and 0 interrupted iterations
 default   [  82% ] 20 VUs  1m39.0s/2m0s
 
-running (1m44.0s), 20/20 VUs, 600 complete and 0 interrupted iterations
+running (1m47.1s), 20/20 VUs, 1560 complete and 0 interrupted iterations
 default   [  83% ] 20 VUs  1m40.0s/2m0s
 
-running (1m45.0s), 20/20 VUs, 600 complete and 0 interrupted iterations
+running (1m48.1s), 20/20 VUs, 1578 complete and 0 interrupted iterations
 default   [  84% ] 20 VUs  1m41.0s/2m0s
 
-running (1m47.5s), 20/20 VUs, 600 complete and 0 interrupted iterations
+running (1m49.1s), 20/20 VUs, 1594 complete and 0 interrupted iterations
 default   [  85% ] 20 VUs  1m42.0s/2m0s
 
-running (1m48.5s), 20/20 VUs, 616 complete and 0 interrupted iterations
+running (1m50.1s), 20/20 VUs, 1607 complete and 0 interrupted iterations
 default   [  86% ] 20 VUs  1m43.0s/2m0s
 
-running (1m49.5s), 20/20 VUs, 620 complete and 0 interrupted iterations
+running (1m51.1s), 20/20 VUs, 1624 complete and 0 interrupted iterations
 default   [  87% ] 20 VUs  1m44.0s/2m0s
 
-running (1m50.5s), 20/20 VUs, 620 complete and 0 interrupted iterations
+running (1m52.1s), 20/20 VUs, 1638 complete and 0 interrupted iterations
 default   [  87% ] 20 VUs  1m45.0s/2m0s
 
-running (1m51.5s), 20/20 VUs, 631 complete and 0 interrupted iterations
+running (1m53.1s), 20/20 VUs, 1656 complete and 0 interrupted iterations
 default   [  88% ] 20 VUs  1m46.0s/2m0s
 
-running (1m52.5s), 20/20 VUs, 640 complete and 0 interrupted iterations
+running (1m54.1s), 20/20 VUs, 1671 complete and 0 interrupted iterations
 default   [  89% ] 20 VUs  1m47.0s/2m0s
 
-running (1m53.5s), 20/20 VUs, 640 complete and 0 interrupted iterations
+running (1m55.1s), 20/20 VUs, 1684 complete and 0 interrupted iterations
 default   [  90% ] 20 VUs  1m48.0s/2m0s
 
-running (1m54.5s), 20/20 VUs, 642 complete and 0 interrupted iterations
+running (1m56.1s), 20/20 VUs, 1698 complete and 0 interrupted iterations
 default   [  91% ] 20 VUs  1m49.0s/2m0s
 
-running (1m55.5s), 20/20 VUs, 660 complete and 0 interrupted iterations
+running (1m57.1s), 20/20 VUs, 1717 complete and 0 interrupted iterations
 default   [  92% ] 20 VUs  1m50.0s/2m0s
 
-running (1m56.5s), 20/20 VUs, 660 complete and 0 interrupted iterations
+running (1m58.1s), 20/20 VUs, 1733 complete and 0 interrupted iterations
 default   [  92% ] 20 VUs  1m51.0s/2m0s
 
-running (1m57.5s), 20/20 VUs, 661 complete and 0 interrupted iterations
+running (1m59.1s), 20/20 VUs, 1746 complete and 0 interrupted iterations
 default   [  93% ] 20 VUs  1m52.0s/2m0s
 
-running (1m58.5s), 20/20 VUs, 676 complete and 0 interrupted iterations
+running (2m00.1s), 20/20 VUs, 1760 complete and 0 interrupted iterations
 default   [  94% ] 20 VUs  1m53.0s/2m0s
 
-running (1m59.5s), 20/20 VUs, 680 complete and 0 interrupted iterations
+running (2m01.1s), 20/20 VUs, 1778 complete and 0 interrupted iterations
 default   [  95% ] 20 VUs  1m54.0s/2m0s
 
-running (2m00.5s), 20/20 VUs, 680 complete and 0 interrupted iterations
+running (2m02.1s), 20/20 VUs, 1792 complete and 0 interrupted iterations
 default   [  96% ] 20 VUs  1m55.0s/2m0s
 
-running (2m01.5s), 20/20 VUs, 692 complete and 0 interrupted iterations
+running (2m03.1s), 20/20 VUs, 1807 complete and 0 interrupted iterations
 default   [  97% ] 20 VUs  1m56.0s/2m0s
 
-running (2m02.5s), 20/20 VUs, 700 complete and 0 interrupted iterations
+running (2m04.1s), 20/20 VUs, 1822 complete and 0 interrupted iterations
 default   [  97% ] 20 VUs  1m57.0s/2m0s
 
-running (2m03.5s), 20/20 VUs, 700 complete and 0 interrupted iterations
+running (2m05.1s), 20/20 VUs, 1838 complete and 0 interrupted iterations
 default   [  98% ] 20 VUs  1m58.0s/2m0s
 
-running (2m04.5s), 20/20 VUs, 704 complete and 0 interrupted iterations
+running (2m06.1s), 20/20 VUs, 1853 complete and 0 interrupted iterations
 default   [  99% ] 20 VUs  1m59.0s/2m0s
 
-running (2m05.5s), 20/20 VUs, 720 complete and 0 interrupted iterations
+running (2m09.5s), 20/20 VUs, 1869 complete and 0 interrupted iterations
 default   [ 100% ] 20 VUs  2m00.0s/2m0s
 
-running (2m06.5s), 20/20 VUs, 720 complete and 0 interrupted iterations
-default ↓ [ 100% ] 20 VUs  2m0s
-
-running (2m07.5s), 18/20 VUs, 722 complete and 0 interrupted iterations
-default ↓ [ 100% ] 20 VUs  2m0s
-
-running (2m08.5s), 03/20 VUs, 737 complete and 0 interrupted iterations
+running (2m10.5s), 08/20 VUs, 1881 complete and 0 interrupted iterations
 default ↓ [ 100% ] 20 VUs  2m0s
 
 
   █ THRESHOLDS 
 
     checks
-    ✓ 'rate>0.90' rate=100.00%
+    ✗ 'rate>0.90' rate=88.38%
 
     http_req_duration{name:cart}
-    ✓ 'p(95)<200' p(95)=3.67ms
-
-    http_req_duration{name:report}
-    ✓ 'p(95)<450' p(95)=396.64ms
+    ✓ 'p(95)<200' p(95)=3.53ms
 
     http_req_failed{name:pay}
-    ✓ 'rate<0.08' rate=3.64%
+    ✗ 'rate<0.08' rate=14.87%
 
 
   █ TOTAL RESULTS 
 
-    checks_total.......: 2220    17.259649/s
-    checks_succeeded...: 100.00% 2220 out of 2220
-    checks_failed......: 0.00%   0 out of 2220
+    checks_total.......: 5667   43.341316/s
+    checks_succeeded...: 88.38% 5009 out of 5667
+    checks_failed......: 11.61% 658 out of 5667
 
-    ✓ cart status is 200
-    ✓ report status is 200
-    ✓ pay status is 200 or 500
+    ✗ cart 200
+      ↳  90% — ✓ 1701 / ✗ 188
+    ✗ report 200
+      ↳  89% — ✓ 1700 / ✗ 189
+    ✗ pay 200
+      ↳  85% — ✓ 1608 / ✗ 281
 
     HTTP
-    http_req_duration..............: avg=111.6ms  min=601.39µs med=2.65ms  max=1.68s   p(90)=351.68ms p(95)=378.51ms
-      { expected_response:true }...: avg=112.95ms min=601.39µs med=2.66ms  max=1.68s   p(90)=352.72ms p(95)=378.66ms
-      { name:cart }................: avg=2.45ms   min=644.58µs med=2.28ms  max=49.79ms p(90)=3.27ms   p(95)=3.67ms  
-      { name:report }..............: avg=330.09ms min=202.09ms med=307.5ms max=1.68s   p(90)=387.99ms p(95)=396.64ms
-    http_req_failed................: 1.21%  27 out of 2220
-      { name:pay }.................: 3.64%  27 out of 740
-    http_reqs......................: 2220   17.259649/s
+    http_req_duration..............: avg=99.91ms  min=0s       med=2.12ms max=2.76s    p(90)=337.13ms p(95)=370.43ms
+      { expected_response:true }...: avg=112.93ms min=458.12µs med=2.31ms max=2.76s    p(90)=344.48ms p(95)=373.65ms
+      { name:cart }................: avg=2.33ms   min=0s       med=1.96ms max=116.44ms p(90)=3.08ms   p(95)=3.53ms  
+    http_req_failed................: 11.61% 658 out of 5667
+      { name:pay }.................: 14.87% 281 out of 1889
+    http_reqs......................: 5667   43.341316/s
 
     EXECUTION
-    iteration_duration.............: avg=3.31s    min=3.21s    med=3.31s   max=3.42s   p(90)=3.39s    p(95)=3.4s    
-    iterations.....................: 740    5.753216/s
-    vus............................: 3      min=3          max=20
-    vus_max........................: 20     min=20         max=20
+    iteration_duration.............: avg=1.27s    min=1s       med=1.29s  max=1.46s    p(90)=1.38s    p(95)=1.39s   
+    iterations.....................: 1889   14.447105/s
+    vus............................: 8      min=8           max=20
+    vus_max........................: 20     min=20          max=20
 
     NETWORK
-    data_received..................: 557 kB 4.3 kB/s
-    data_sent......................: 269 kB 2.1 kB/s
+    data_received..................: 1.3 MB 9.8 kB/s
+    data_sent......................: 454 kB 3.5 kB/s
 
 
 
 
-running (2m08.6s), 00/20 VUs, 740 complete and 0 interrupted iterations
+running (2m10.8s), 00/20 VUs, 1889 complete and 0 interrupted iterations
 default ✓ [ 100% ] 20 VUs  2m0s
+time="2026-09-23T10:14:45+08:00" level=error msg="thresholds on metrics 'checks, http_req_failed{name:pay}' have been crossed"
